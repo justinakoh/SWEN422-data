@@ -1,1 +1,20 @@
-﻿location,numberAuckland Metro,41641Bay of Plenty,1545Canterbury,5414Capital & Coast and Hutt Valley,6988Hawke's Bay,1217Lakes,1330MidCentral,120Mnelson Marlborough,4789Northland,1080South Canterbury,1229Southern,3870Tairawhiti,620Taranaki,1268Waikato,5658Wairarapa,0West Coast,0Whanganui,91Other Sites,7735Total,84595
+﻿location,number
+Auckland Metro,"85,716"
+Bay of Plenty,"15,250"
+Canterbury,"37,653"
+Capital & Coast and Hutt Valley,"28,491"
+Hawke's Bay,"12,000"
+Lakes,"6,049"
+MidCentral,"8,190"
+Mnelson Marlborough,"12,800"
+Northland,"8,500"
+South Canterbury,"4,295"
+Southern,"32,200"
+Tairawhiti,"3,600"
+Taranaki,"7,056"
+Waikato,"33,329"
+Wairarapa,"3,400"
+West Coast,"2,250"
+Whanganui,"5,406"
+Other Sites,
+Total,"306,185"
