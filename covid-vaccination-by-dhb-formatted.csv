@@ -1,19 +1,19 @@
-﻿location,number,population,percentage,,
-Auckland Metro,"127,357",1657000,0.076860,,
-Bay of Plenty,"16,795",259090,0.064823,,
-Canterbury,"43,067",578290,0.074473,,
-Capital & Coast and Hutt Valley,"35,479",320640,0.110651,,
-Hawke's Bay,"13,217",155000,0.085271,,
-Rotorua (Lakes),"7,379",100000,0.073790,,
-Palmerston North (MidCentral),"8,310",186190,0.044632,,
-Nelson Marlborough,"17,589",159360,0.110373,,
-Northland,"9,580",193170,0.049594,,
-South Canterbury,"5,524",628600,0.008788,,
-Southern,"36,070",344900,0.104581,,
-Tairawhiti (Gisbourne),"4,220",49755,0.084816,,
-Taranaki,"8,324",117561,0.070806,,
-Waikato,"38,987",435690,0.089483,,
-Wairarapa,"3,400",48480,0.070132,,
-West Coast,"2,250",32550,0.069124,,
-Whanganui,"5,497",68395,0.080371,,
-Total,"383,045",1,"383,045.000000",,
+﻿location,number,population,percentage
+Auckland Metro,"127,357",1657000,7.686
+Bay of Plenty,"16,795",259090,6.4823
+Canterbury,"43,067",578290,7.4473
+Capital & Coast and Hutt Valley,"35,479",320640,11.0651
+Hawke's Bay,"13,217",155000,8.5271
+Rotorua (Lakes),"7,379",100000,7.379
+Palmerston North (MidCentral),"8,310",186190,4.4632
+Nelson Marlborough,"17,589",159360,11.0373
+Northland,"9,580",193170,4.9594
+South Canterbury,"5,524",628600,0.8788
+Southern,"36,070",344900,10.4581
+Tairawhiti (Gisbourne),"4,220",49755,8.4816
+Taranaki,"8,324",117561,7.0806
+Waikato,"38,987",435690,8.9483
+Wairarapa,"3,400",48480,7.0132
+West Coast,"2,250",32550,6.9124
+Whanganui,"5,497",68395,8.0371
+Total,"383,045",1,"383,045.00"
